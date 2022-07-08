@@ -90,42 +90,42 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 ### Cloud
 
 <p>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"
 		><img
 			src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"
 			width="36"
 			height="36"
 			alt="AWS"
 	/></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"
 		><img
 			src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg"
 			width="30"
 			height="30"
 			alt="lambda"
 	/></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"
 		><img
 			src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"
 			width="30"
 			height="30"
 			alt="dynamo"
 	/></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"
 		><img
 			src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg"
 			width="30"
 			height="30"
 			alt="apigateway"
 	/></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer"
 		><img
 			src="https://cdn.worldvectorlogo.com/logos/aws-route53.svg"
 			width="30"
 			height="30"
 			alt="route53"
 	/></a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"
 		>
     <img
 			src="https://cdn.worldvectorlogo.com/logos/aws-cloudfront.svg"
@@ -134,7 +134,7 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 			alt="cloudfront"
 	/>
   </a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"
 		><img
 			src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/856px-Amazon-S3-Logo.svg.png?20220427001138"
 			width="30"
