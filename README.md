@@ -1,6 +1,6 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-#### My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy high level problem solving and boiling complex problems down to a simple solution drawing from first principles. I love to learn new skills and I’m always looking for opportunities to better myself and my skillset.
+My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy high level problem solving and boiling complex problems down to a simple solution drawing from first principles. I love to learn new skills and I’m always looking for opportunities to better myself and my skillset.
 
 ## Toolbox
 
