@@ -31,6 +31,13 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 			height="36"
 			alt="React"
 	/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"
+		><img
+			src="https://worldvectorlogo.com/logo/vue-js-1"
+			width="36"
+			height="36"
+			alt="React"
+	/></a>
 	<a href="https://angular.io/" target="_blank" rel="noreferrer"
 		><img
 			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
