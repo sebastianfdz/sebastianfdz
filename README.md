@@ -33,10 +33,10 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 	/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"
 		><img
-			src="https://worldvectorlogo.com/logo/vue-js-1"
+			src="https://cdn.worldvectorlogo.com/logo/vue-js-1"
 			width="36"
 			height="36"
-			alt="React"
+			alt="Vue"
 	/></a>
 	<a href="https://angular.io/" target="_blank" rel="noreferrer"
 		><img
