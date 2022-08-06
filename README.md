@@ -52,6 +52,13 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 			height="36"
 			alt="Redux"
 	/></a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+		><img
+			src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"
+			width="36"
+			height="36"
+			alt="Tailwind"
+	/></a>
 </p>
 
 ### Backend
