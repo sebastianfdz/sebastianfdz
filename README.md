@@ -158,6 +158,15 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       21 hrs 10 mins  █████████████████▓░░░░░░░   70.29 %
+JavaScript   5 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+TypeScript   2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/sebastianfdz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianfdz&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
