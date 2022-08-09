@@ -157,6 +157,8 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 	/></a>
 </p>
 
+## What I've been working on this week
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -168,5 +170,3 @@ Other        13 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<a href="https://github.com/sebastianfdz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianfdz&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
