@@ -162,12 +162,12 @@ My name is Sebastian Fernandez and I'm a full-stack software developer. I enjoy 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   20 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.86 %
-Vue.js       16 hrs 10 mins  ██████████▓░░░░░░░░░░░░░░   42.36 %
-HTML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Python       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   22 hrs 46 mins  ██████████████░░░░░░░░░░░   56.43 %
+Vue.js       15 hrs 32 mins  █████████▓░░░░░░░░░░░░░░░   38.52 %
+JavaScript   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+HTML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
