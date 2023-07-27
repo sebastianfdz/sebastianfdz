@@ -151,11 +151,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   36.68 %
-TypeScript   5 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
-Vue.js       4 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-MDX          1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-JavaScript   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+TypeScript   8 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.24 %
+Python       8 hrs 47 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 %
+Vue.js       5 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+JavaScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Git Config   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
