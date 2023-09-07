@@ -1,3 +1,4 @@
+<!--
 ## Toolbox
 
 ### Frontend
@@ -145,6 +146,7 @@
 			alt="s3"
 	/></a>
 </p>
+-->
 
 ## What I've been working on this week
 
