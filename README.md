@@ -153,8 +153,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    0 secs          ███████████████▒░░░░░░░░░   61.29 %
-Ezhil   0 secs          █████████▓░░░░░░░░░░░░░░░   38.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
