@@ -1,4 +1,4 @@
-Founder & CTO. I build AI agents for accounts payable teams.
+I build AI agents for accounts payable teams.
 
 **The work**: agents that read every line of every invoice, compare it against what
 was actually ordered and received, and flag the one number that's off —
