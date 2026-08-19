@@ -1,9 +1,9 @@
-I build AI agents for accounts payable teams.
+I build agents that work the vendor loop for finance teams.
 
-**The work**: agents that read every line of every invoice, compare it against what
-was actually ordered and received, and flag the one number that's off —
-catching overbilling, duplicates, and tax mismatches before anything leaves the
-bank account. The boring part of finance, handled in seconds.
+**The work**: accounts payable isn't paying, it's chasing. A price that doesn't
+match the order, a delivery that came up short, a receipt that never arrived.
+The agent catches it, writes the vendor, waits, follows up — and asks a human
+before anything moves money.
 
 ---
 
@@ -12,5 +12,3 @@ bank account. The boring part of finance, handled in seconds.
 **Stack** → TypeScript · React · Effect · DDD
 
 **Reach me** → fdz.seb@gmail.com
-
----
